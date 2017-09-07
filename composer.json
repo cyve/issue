@@ -1,0 +1,15 @@
+{
+    "name": "cyve/bitbucket-issue",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cyril Vermandé",
+            "email": "cyril@cyrilwebdesign.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/console": "^3.3"
+    }
+}
